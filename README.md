@@ -1,3 +1,3 @@
-GetX
+# GetX
 
-Adinda Latifah (H1101221022)
+# Adinda Latifah (H1101221022)
